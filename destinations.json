@@ -1,0 +1,82 @@
+[
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "nights": 4,
+    "price": 329,
+    "type": "City & Culture",
+    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "nights": 5,
+    "price": 399,
+    "type": "Beach & City",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "nights": 3,
+    "price": 249,
+    "type": "City Break",
+    "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92"
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "nights": 4,
+    "price": 289,
+    "type": "Historic City",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c"
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "nights": 5,
+    "price": 419,
+    "type": "Coastal",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "nights": 4,
+    "price": 309,
+    "type": "History & Culture",
+    "image": "https://images.unsplash.com/photo-1506806732259-39c2d0268443"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "nights": 4,
+    "price": 379,
+    "type": "City & Food",
+    "image": "https://images.unsplash.com/photo-1526481280690-7ead2a2c6f46"
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "nights": 3,
+    "price": 299,
+    "type": "City Break",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
+  },
+  {
+    "city": "Malta",
+    "country": "Malta",
+    "nights": 6,
+    "price": 459,
+    "type": "Beach",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "nights": 3,
+    "price": 219,
+    "type": "City & Nature",
+    "image": "https://images.unsplash.com/photo-1506377875725-8d4b7c3d6c93"
+  }
+]
